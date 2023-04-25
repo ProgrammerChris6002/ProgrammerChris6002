@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Nwachukwu.
-- 👀 I’m an aspiring Fullstack Web Developer.
+- 👀 I’m an aspiring Fullstack Web Developer skilled with HTML, CSS JavaScript, Python and MySQL.
 - 🌱 I’m currently learning Django Web Framework...
 - 💞️ I’m looking to collaborate on Web Projects...
 - 📫 Hit me up @ProgrammerChris6002 on all social media platforms, @ProgChris6002 on twitter
